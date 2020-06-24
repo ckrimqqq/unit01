@@ -11,3 +11,8 @@ public class TrainingTask05 {
 		System.out.println("sum = " + sum);
 		}
 }
+// Задачи решены хорошо, особых замечаний нет
+// Молодец!
+
+
+
